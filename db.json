@@ -1,8 +1,8 @@
 {
     "status": "ok",
     "totalResults": 15,
-    "articles": [{
-            "source": {
+    - "articles": [ - {
+            - "source": {
                 "id": null,
                 "name": "City A.M."
             },
@@ -14,8 +14,8 @@
             "publishedAt": "2020-11-09T16:57:27Z",
             "content": "With the advances in online banking, contactless payments, and the recent concerns related to using physical currency in the days of COVID-19, fewer and fewer people carry cash. And with China leadin… [+7113 chars]"
         },
-        {
-            "source": {
+      - {
+          - "source": {
                 "id": null,
                 "name": "Cointelegraph"
             },
@@ -27,8 +27,8 @@
             "publishedAt": "2020-11-09T16:50:47Z",
             "content": "Bitcoin (BTC) fell sharply in price this morning as pharmaceutical company Pfizer, in collaboration with biotech company BioNTech, announced a breakthrough in its COVID-19 vaccine.\r\nBitcoin fell appr… [+1612 chars]"
         },
-        {
-            "source": {
+      - {
+          - "source": {
                 "id": null,
                 "name": "Newslocker.com"
             },
@@ -40,8 +40,8 @@
             "publishedAt": "2020-11-09T16:46:00Z",
             "content": "<ul><li>\r\nOpen University Targeted With Over a Million Malicious Email Attacks So Far This YearThe UK’s Open University has been targeted with over 1 million malicious email attacks from January to S… [+14868 chars]"
         },
-        {
-            "source": {
+      - {
+          - "source": {
                 "id": null,
                 "name": "Sensorstechforum.com"
             },
@@ -53,8 +53,8 @@
             "publishedAt": "2020-11-09T16:41:00Z",
             "content": "Discover what is the RXD ransomware virus virus and how to remove it. Attempt to recover .RXD encrypted files with our guide.\r\nRXD Virus Files\r\nYet another CrySis/Dharma ransomware version has been d… [+20787 chars]"
         },
-        {
-            "source": {
+      - {
+          - "source": {
                 "id": null,
                 "name": "newsBTC"
             },
