@@ -1,71 +1,70 @@
 {
-  "status": "ok",
-  "totalResults": 15,
-  "articles": [
-  {
-    "source": {
-    "id": null,
-    "name": "City A.M."
-  },
-    "author": "Crypto AM: Inside Blockchain with Troy Norcross",
-    "title": "Blockchain and the future of digital and crypto currencies",
-    "description": "With the advances in online banking, contactless payments, and the recent concerns related to using physical currency in the days\nThe post Blockchain and the future of digital and crypto currencies appeared first on CityAM.",
-    "url": "https://www.cityam.com/blockchain-and-the-future-of-digital-and-crypto-currencies/",
-    "urlToImage": "https://www.cityam.com/wp-content/uploads/2020/11/1-3.jpg",
-    "publishedAt": "2020-11-09T16:57:27Z",
-    "content": "With the advances in online banking, contactless payments, and the recent concerns related to using physical currency in the days of COVID-19, fewer and fewer people carry cash. And with China leadin… [+7113 chars]"
-   },
-   {
-    "source": {
-    "id": null,
-    "name": "Cointelegraph"
-    },
-    "author": "Cointelegraph By Benjamin Pirus",
-    "title": "Bitcoin dumps on news of successful COVID-19 vaccine trials",
-    "description": "Bitcoin apparently did not like all the fanfare regarding over good results in a COVID-19 vaccine trial.",
-    "url": "https://cointelegraph.com/news/bitcoin-dumps-on-news-of-successful-covid-19-vaccine-trials",
-    "urlToImage": "https://s3.cointelegraph.com/uploads/2020-11/75f5f4d6-d323-4f9c-82b5-3313b5b1832a.jpg",
-    "publishedAt": "2020-11-09T16:50:47Z",
-    "content": "Bitcoin (BTC) fell sharply in price this morning as pharmaceutical company Pfizer, in collaboration with biotech company BioNTech, announced a breakthrough in its COVID-19 vaccine.\r\nBitcoin fell appr… [+1612 chars]"
-   },
-   {
-    "source": {
-    "id": null,
-    "name": "Newslocker.com"
-    },
-    "author": null,
-    "title": "Open University Targeted With Over a Million Malicious Email Attacks So Far This Year",
-    "description": "Open University Targeted With Over a Million Malicious Email Attacks So Far This YearThe UK’s Open University has been targeted with over 1 million malicious email attacks from January to September this year, according to official figures obtained by the thin…",
-    "url": "https://www.newslocker.com/en-uk/profession/security/open-university-targeted-with-over-a-million-malicious-email-attacks-so-far-this-year/",
-    "urlToImage": "https://www.newslocker.com/images/newslocker-cube.png",
-    "publishedAt": "2020-11-09T16:46:00Z",
-    "content": "<ul><li>\r\nOpen University Targeted With Over a Million Malicious Email Attacks So Far This YearThe UK’s Open University has been targeted with over 1 million malicious email attacks from January to S… [+14868 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Sensorstechforum.com"
-    },
-    "author": "Gergana Ivanova",
-    "title": "RXD Virus Files – Remove and Restore",
-    "description": "RXD Virus Files. Yet another CrySis/Dharma ransomware version has been detected. This malicious software appends the .RXD file extension to the files it encrypts. Then the ransomware asks victims to pay a ransom in BitCoin or another cryptocurrency to get the…",
-    "url": "https://sensorstechforum.com/rxd-virus-files-remove-restore/",
-    "urlToImage": "https://sensorstechforum.com/wp-content/uploads/2020/11/data-encryption-stforum-300x188.jpg",
-    "publishedAt": "2020-11-09T16:41:00Z",
-    "content": "Discover what is the RXD ransomware virus virus and how to remove it. Attempt to recover .RXD encrypted files with our guide.\r\nRXD Virus Files\r\nYet another CrySis/Dharma ransomware version has been d… [+20787 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "newsBTC"
-    },
-    "author": "Cole Petersen",
-    "title": "Run to All-Time Highs is “Not Out of the Question” Despite Bitcoin Plunge",
-    "description": "Bitcoin has seen heightened volatility this morning, likely due to that seen within the global markets. Stocks are rallying today, while precious metals and so-called “safe haven assets” all plunge due to positive vaccine news. Pfizer reported that their vacc…",
-    "url": "https://www.newsbtc.com/analysis/btc/run-to-all-time-highs-is-not-out-of-the-question-despite-bitcoin-plunge/",
-    "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/11/shane-rounce-DYpiND4Ic0k-unsplash-scaled.jpg",
-    "publishedAt": "2020-11-09T16:14:10Z",
-    "content": "Bitcoin has seen heightened volatility this morning, likely due to that seen within the global markets. Stocks are rallying today, while precious metals and so-called “safe haven assets” all plunge d… [+2452 chars]"
-    }
-   ]
+    "status": "ok",
+    "totalResults": 15,
+    "articles": [{
+            "source": {
+                "id": null,
+                "name": "City A.M."
+            },
+            "author": "Crypto AM: Inside Blockchain with Troy Norcross",
+            "title": "Blockchain and the future of digital and crypto currencies",
+            "description": "With the advances in online banking, contactless payments, and the recent concerns related to using physical currency in the days\nThe post Blockchain and the future of digital and crypto currencies appeared first on CityAM.",
+            "url": "https://www.cityam.com/blockchain-and-the-future-of-digital-and-crypto-currencies/",
+            "urlToImage": "https://www.cityam.com/wp-content/uploads/2020/11/1-3.jpg",
+            "publishedAt": "2020-11-09T16:57:27Z",
+            "content": "With the advances in online banking, contactless payments, and the recent concerns related to using physical currency in the days of COVID-19, fewer and fewer people carry cash. And with China leadin… [+7113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph By Benjamin Pirus",
+            "title": "Bitcoin dumps on news of successful COVID-19 vaccine trials",
+            "description": "Bitcoin apparently did not like all the fanfare regarding over good results in a COVID-19 vaccine trial.",
+            "url": "https://cointelegraph.com/news/bitcoin-dumps-on-news-of-successful-covid-19-vaccine-trials",
+            "urlToImage": "https://s3.cointelegraph.com/uploads/2020-11/75f5f4d6-d323-4f9c-82b5-3313b5b1832a.jpg",
+            "publishedAt": "2020-11-09T16:50:47Z",
+            "content": "Bitcoin (BTC) fell sharply in price this morning as pharmaceutical company Pfizer, in collaboration with biotech company BioNTech, announced a breakthrough in its COVID-19 vaccine.\r\nBitcoin fell appr… [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newslocker.com"
+            },
+            "author": null,
+            "title": "Open University Targeted With Over a Million Malicious Email Attacks So Far This Year",
+            "description": "Open University Targeted With Over a Million Malicious Email Attacks So Far This YearThe UK’s Open University has been targeted with over 1 million malicious email attacks from January to September this year, according to official figures obtained by the thin…",
+            "url": "https://www.newslocker.com/en-uk/profession/security/open-university-targeted-with-over-a-million-malicious-email-attacks-so-far-this-year/",
+            "urlToImage": "https://www.newslocker.com/images/newslocker-cube.png",
+            "publishedAt": "2020-11-09T16:46:00Z",
+            "content": "<ul><li>\r\nOpen University Targeted With Over a Million Malicious Email Attacks So Far This YearThe UK’s Open University has been targeted with over 1 million malicious email attacks from January to S… [+14868 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sensorstechforum.com"
+            },
+            "author": "Gergana Ivanova",
+            "title": "RXD Virus Files – Remove and Restore",
+            "description": "RXD Virus Files. Yet another CrySis/Dharma ransomware version has been detected. This malicious software appends the .RXD file extension to the files it encrypts. Then the ransomware asks victims to pay a ransom in BitCoin or another cryptocurrency to get the…",
+            "url": "https://sensorstechforum.com/rxd-virus-files-remove-restore/",
+            "urlToImage": "https://sensorstechforum.com/wp-content/uploads/2020/11/data-encryption-stforum-300x188.jpg",
+            "publishedAt": "2020-11-09T16:41:00Z",
+            "content": "Discover what is the RXD ransomware virus virus and how to remove it. Attempt to recover .RXD encrypted files with our guide.\r\nRXD Virus Files\r\nYet another CrySis/Dharma ransomware version has been d… [+20787 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "newsBTC"
+            },
+            "author": "Cole Petersen",
+            "title": "Run to All-Time Highs is “Not Out of the Question” Despite Bitcoin Plunge",
+            "description": "Bitcoin has seen heightened volatility this morning, likely due to that seen within the global markets. Stocks are rallying today, while precious metals and so-called “safe haven assets” all plunge due to positive vaccine news. Pfizer reported that their vacc…",
+            "url": "https://www.newsbtc.com/analysis/btc/run-to-all-time-highs-is-not-out-of-the-question-despite-bitcoin-plunge/",
+            "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/11/shane-rounce-DYpiND4Ic0k-unsplash-scaled.jpg",
+            "publishedAt": "2020-11-09T16:14:10Z",
+            "content": "Bitcoin has seen heightened volatility this morning, likely due to that seen within the global markets. Stocks are rallying today, while precious metals and so-called “safe haven assets” all plunge d… [+2452 chars]"
+        }
+    ]
 }
