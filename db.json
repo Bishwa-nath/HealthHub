@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 3887,
+-"articles": [
+-{
+-"source": {
+"id": null,
+"name": "City A.M."
+},
+"author": "Crypto AM: Inside Blockchain with Troy Norcross",
+"title": "Blockchain and the future of digital and crypto currencies",
+"description": "With the advances in online banking, contactless payments, and the recent concerns related to using physical currency in the days\nThe post Blockchain and the future of digital and crypto currencies appeared first on CityAM.",
+"url": "https://www.cityam.com/blockchain-and-the-future-of-digital-and-crypto-currencies/",
+"urlToImage": "https://www.cityam.com/wp-content/uploads/2020/11/1-3.jpg",
+"publishedAt": "2020-11-09T16:57:27Z",
+"content": "With the advances in online banking, contactless payments, and the recent concerns related to using physical currency in the days of COVID-19, fewer and fewer people carry cash. And with China leadin… [+7113 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Cointelegraph"
+},
+"author": "Cointelegraph By Benjamin Pirus",
+"title": "Bitcoin dumps on news of successful COVID-19 vaccine trials",
+"description": "Bitcoin apparently did not like all the fanfare regarding over good results in a COVID-19 vaccine trial.",
+"url": "https://cointelegraph.com/news/bitcoin-dumps-on-news-of-successful-covid-19-vaccine-trials",
+"urlToImage": "https://s3.cointelegraph.com/uploads/2020-11/75f5f4d6-d323-4f9c-82b5-3313b5b1832a.jpg",
+"publishedAt": "2020-11-09T16:50:47Z",
+"content": "Bitcoin (BTC) fell sharply in price this morning as pharmaceutical company Pfizer, in collaboration with biotech company BioNTech, announced a breakthrough in its COVID-19 vaccine.\r\nBitcoin fell appr… [+1612 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Newslocker.com"
+},
+"author": null,
+"title": "Open University Targeted With Over a Million Malicious Email Attacks So Far This Year",
+"description": "Open University Targeted With Over a Million Malicious Email Attacks So Far This YearThe UK’s Open University has been targeted with over 1 million malicious email attacks from January to September this year, according to official figures obtained by the thin…",
+"url": "https://www.newslocker.com/en-uk/profession/security/open-university-targeted-with-over-a-million-malicious-email-attacks-so-far-this-year/",
+"urlToImage": "https://www.newslocker.com/images/newslocker-cube.png",
+"publishedAt": "2020-11-09T16:46:00Z",
+"content": "<ul><li>\r\nOpen University Targeted With Over a Million Malicious Email Attacks So Far This YearThe UK’s Open University has been targeted with over 1 million malicious email attacks from January to S… [+14868 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Sensorstechforum.com"
+},
+"author": "Gergana Ivanova",
+"title": "RXD Virus Files – Remove and Restore",
+"description": "RXD Virus Files. Yet another CrySis/Dharma ransomware version has been detected. This malicious software appends the .RXD file extension to the files it encrypts. Then the ransomware asks victims to pay a ransom in BitCoin or another cryptocurrency to get the…",
+"url": "https://sensorstechforum.com/rxd-virus-files-remove-restore/",
+"urlToImage": "https://sensorstechforum.com/wp-content/uploads/2020/11/data-encryption-stforum-300x188.jpg",
+"publishedAt": "2020-11-09T16:41:00Z",
+"content": "Discover what is the RXD ransomware virus virus and how to remove it. Attempt to recover .RXD encrypted files with our guide.\r\nRXD Virus Files\r\nYet another CrySis/Dharma ransomware version has been d… [+20787 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "newsBTC"
+},
+"author": "Cole Petersen",
+"title": "Run to All-Time Highs is “Not Out of the Question” Despite Bitcoin Plunge",
+"description": "Bitcoin has seen heightened volatility this morning, likely due to that seen within the global markets. Stocks are rallying today, while precious metals and so-called “safe haven assets” all plunge due to positive vaccine news. Pfizer reported that their vacc…",
+"url": "https://www.newsbtc.com/analysis/btc/run-to-all-time-highs-is-not-out-of-the-question-despite-bitcoin-plunge/",
+"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/11/shane-rounce-DYpiND4Ic0k-unsplash-scaled.jpg",
+"publishedAt": "2020-11-09T16:14:10Z",
+"content": "Bitcoin has seen heightened volatility this morning, likely due to that seen within the global markets. Stocks are rallying today, while precious metals and so-called “safe haven assets” all plunge d… [+2452 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Digitalshadows.com"
+},
+"author": "michael-marriott",
+"title": "A Eulogy for Maze: The end of a ransomware era?",
+"description": "Maze— a high profile ransomware gang in the cybercriminal world— now claims they’ve ceased to exist. The hacker group famed for their double extortion of Allied Universal ( requested ransom of 2.3 million USD) and disruption operations for American tax adviso…",
+"url": "https://www.digitalshadows.com/blog-and-research/a-eulogy-for-maze-the-end-of-a-ransomware-era/",
+"urlToImage": "https://www.digitalshadows.com/uploads/2020/11/Maze-Eulogy-1.png",
+"publishedAt": "2020-11-09T15:48:00Z",
+"content": "Maze a high profile ransomwaregang in the cybercriminal world now claims theyve ceased to exist. The hacker group famed for their double extortion of Allied Universal ( requested ransom of 2.3 millio… [+6030 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "ValueWalk"
+},
+"author": "Aman Jain",
+"title": "These are the ten best discount brokerage firms",
+"description": "Cost is always a factor when you are shopping, and it plays an even bigger role when you are trading stocks. This is because many a time it is the cost that decides whether you make a profit or loss on a trade. So, it is important for you to keep your trading…",
+"url": "https://www.valuewalk.com/2020/11/ten-best-discount-brokerage-firms/",
+"urlToImage": "https://www.valuewalk.com/wp-content/uploads/2020/08/money_1596806924.jpg",
+"publishedAt": "2020-11-09T15:36:35Z",
+"content": "Cost is always a factor when you are shopping, and it plays an even bigger role when you are trading stocks. This is because many a time it is the cost that decides whether you make a profit or loss … [+4961 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Business Wire"
+},
+"author": null,
+"title": "Integration of Wolfram Blockchain Labs’ Distributed Ledger Technology Platform on the Bloxberg Blockchain",
+"description": "CHAMPAIGN, Ill. & MUNICH--(BUSINESS WIRE)-- #Crypto--Integration of Wolfram Blockchain Labs’ distributed ledger technology platform on the bloxberg blockchain.",
+"url": "https://www.businesswire.com/news/home/20201109005716/en/Integration-of-Wolfram-Blockchain-Labs%E2%80%99-Distributed-Ledger-Technology-Platform-on-the-Bloxberg-Blockchain",
+"urlToImage": "https://mms.businesswire.com/media/20201109005716/en/837075/23/wolfram-corporate-logo-stacked-med.jpg",
+"publishedAt": "2020-11-09T15:24:27Z",
+"content": "CHAMPAIGN, Ill. &amp; MUNICH--(BUSINESS WIRE)--Wolfram Blockchain Labs (WBL) and the Max Planck Digital Library (MPDL) announce the integration between WBLs distributed ledger technology (DLT) platfo… [+3928 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investmentwatchblog.com"
+},
+"author": "alexmark",
+"title": "Hedge funds are record net short on bitcoin. They must know something.",
+"description": null,
+"url": "https://www.investmentwatchblog.com/hedge-funds-are-record-net-short-on-bitcoin-they-must-know-something/",
+"urlToImage": null,
+"publishedAt": "2020-11-09T15:19:07Z",
+"content": "Copyright Disclaimer: Works and images presented here fall under Fair Use Section 107 and are used for commentary on globally significant newsworthy events. Under Section 107 of the Copyright Act 197… [+456 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "D. H. Taylor",
+"title": "Bitcoin And The Money Supply: Both Heading Higher",
+"description": "Bitcoin was created in frustration after the 2008 financial crisis and the ensuing monetary and fiscal stimulus.",
+"url": "https://seekingalpha.com/article/4387001-bitcoin-and-money-supply-heading-higher",
+"urlToImage": "https://static.seekingalpha.com/uploads/2020/11/3948_16045977636162_rId4.png",
+"publishedAt": "2020-11-09T15:10:09Z",
+"content": "There is one reason that Bitcoin (BTC-USD) was invented: the frustration of one individual due to the monetary policies of governments during the financial crisis of 2008. During that time, governmen… [+7659 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Bitcoinist"
+},
+"author": "Tony Spilotro",
+"title": "Stock Market Sees Largest Surge Since V-Shaped Recovery, Another Leg For Bitcoin?",
+"description": "On the heels of positive vaccine news and a winner finally being declared in the US presidential election, major US stock indices like the S&P 500 and the Dow Jones Industrial Average set a new all-time high price record. Due to the ongoing correlation with t…",
+"url": "https://bitcoinist.com/stock-market-sees-largest-surge-since-v-shaped-recovery-another-leg-for-bitcoin/",
+"urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/11/bitcoin-stock-market-Depositphotos_137195996_xl-2015-1920x1282.jpg",
+"publishedAt": "2020-11-09T15:00:07Z",
+"content": "On the heels of positive vaccine news and a winner finally being declared in the US presidential election, major US stock indices like the S&amp;P 500 and the Dow Jones Industrial Average set a new a… [+2986 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "FXStreet"
+},
+"author": "Lorenzo Stroe",
+"title": "SPX 500 leaves Bitcoin in the dust following COVID-19 vaccine advancements",
+"description": "Pfizer and Biontech announced a potential vaccine candidate against COVID-19 that seems to have a 90% effectiveness. The submission for Emergency Use",
+"url": "https://www.fxstreet.com/cryptocurrencies/news/spx-500-leaves-bitcoin-in-the-dust-following-covid-19-vaccine-advancements-202011091439",
+"urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Digital Currencies/Bitcoin/bitcoins-52602600_Large.jpg",
+"publishedAt": "2020-11-09T14:39:26Z",
+"content": "<ul><li>The S&amp;P 500 had a massive jump following news about coronavirus vaccine advancements.</li><li>Bitcoin price initially followed the index but suffered an enormous rejection at $16,000.</li… [+1748 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "newsBTC"
+},
+"author": "Samuel Wan",
+"title": "How Staking Apathy Could Spell Doom For Ethereum 2.0",
+"description": "Although Bitcoin has dominated the headlines of late, Ethereum has also rallied hard. Since the beginning of October, the second-biggest cryptocurrency by market cap is up 32% to $457 at the time of writing. What’s more, unlike Bitcoin, sustainable fundamenta…",
+"url": "https://www.newsbtc.com/news/ethereum/how-staking-apathy-could-spell-doom-for-ethereum-2-0/",
+"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/11/Depositphotos_9505759_s-2019.jpg",
+"publishedAt": "2020-11-09T14:32:45Z",
+"content": "Although Bitcoin has dominated the headlines of late, Ethereum has also rallied hard. Since the beginning of October, the second-biggest cryptocurrency by market cap is up 32% to $457 at the time of … [+3348 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": null,
+"title": "Bitcoin fans mull what might be an end to the pandemic",
+"description": null,
+"url": "https://seekingalpha.com/news/3633677-bitcoin-fans-mull-what-might-be-end-to-pandemic?utm_source=feed_news_all&utm_medium=referral",
+"urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+"publishedAt": "2020-11-09T14:12:04Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Cointelegraph"
+},
+"author": "Cointelegraph By Michaël van de Poppe",
+"title": "Why a 30% Bitcoin price crash should not catch you off-guard right now",
+"description": "The price of Bitcoin is facing the last major barrier at $16,000 before a potential run to new all-time highs but a 30% correction is also on the table.",
+"url": "https://cointelegraph.com/news/why-a-30-bitcoin-price-crash-should-not-catch-you-off-guard-right-now",
+"urlToImage": "https://s3.cointelegraph.com/uploads/2020-11/f066da78-2eac-4e6c-8213-ec63c01ef7b8.jpg",
+"publishedAt": "2020-11-09T14:03:00Z",
+"content": "The Bitcoin (BTC) price rally halted the moment Joe Biden was announced as the projected winner of the 2020 presidential election during the weekend with price dropping from $15,500 to $14,400.\r\nHowe… [+3660 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "newsBTC"
+},
+"author": "Yashu Gola",
+"title": "Bitcoin Falls on Positive Coronavirus Vaccine Results; Risks Ahead?",
+"description": "Bitcoin’s second attempt to close above $16,000 hit a wall on Monday as traders assessed the latest progress on a coronavirus vaccine. The benchmark cryptocurrency fell 0.77 percent, suggesting that its last week’s advance, which took its price to a three-yea…",
+"url": "https://www.newsbtc.com/news/bitcoin/bitcoin-falls-on-positive-coronavirus-vaccine-results-risks-ahead/",
+"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/11/Depositphotos_144046455_s-2019.jpg",
+"publishedAt": "2020-11-09T14:01:59Z",
+"content": "Bitcoin’s second attempt to close above $16,000 hit a wall on Monday as traders assessed the latest progress on a coronavirus vaccine.\r\nThe benchmark cryptocurrency fell 0.77 percent, suggesting that… [+3051 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CoinDesk"
+},
+"author": "Bradley Keoun",
+"title": "First Mover: What’s Next for Bitcoin as Wall Street Gets Vaccine Booster",
+"description": "Crypto markets could turn on shift in economic policies as Biden transition team meets, Wall Street gets vaccine boost, digital dollar.",
+"url": "https://www.coindesk.com/first-mover-whats-next-for-bitcoin-as-wall-street-gets-vaccine-booster",
+"urlToImage": "https://static.coindesk.com/wp-content/uploads/2020/11/MOSHED-2020-11-9-7-25-19-1200x628.jpg",
+"publishedAt": "2020-11-09T14:00:10Z",
+"content": "Bitcoin was higher for a second day, staying in a range between roughly $15,200 and $15,600, as news of progress in developing a coronavirus vaccine appeared to touch off a rally in U.S. stocks.  \r\nW… [+6719 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "newsBTC"
+},
+"author": "Tony Spilotro",
+"title": "Bitcoin Responds To Biden Victory With Rollercoaster Intraday Volatility",
+"description": "Bitcoin and cryptocurrencies are known for their notorious volatility, rising by enormous figures only to retrace nearly 90% of the entire rise. Except that usually happens on a grander scale. Since Biden was proclaimed the winner of the US election, however,…",
+"url": "https://www.newsbtc.com/analysis/btc/bitcoin-responds-to-biden-victory-with-rollercoaster-intraday-volatility/",
+"urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/11/bitcoin-biden-presidency-us-election-scaled.jpg",
+"publishedAt": "2020-11-09T13:55:55Z",
+"content": "Bitcoin and cryptocurrencies are known for their notorious volatility, rising by enormous figures only to retrace nearly 90% of the entire rise. Except that usually happens on a grander scale. Since … [+1520 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Shalini Nagarajan",
+"title": "Mohamed El-Erian says Biden will face a complicated transfer of power — and outlines 4 policy goals for the Democrats in their efforts to tackle COVID-19",
+"description": "Summary List Placement\n\n<ul>\n<li>President-elect Joe Biden will go through a complicated transfer of power while the US economy struggles to deal with efforts to tackle COVID-19, economist Mohamed El-Erian told CNBC.</li>\n<li>El-Erian said Biden's administrat…",
+"url": "https://www.businessinsider.com/mohamed-el-erian-biden-transfer-power-covid19-policies-2020-11",
+"urlToImage": "https://images2.markets.businessinsider.com/5fa922301df1d50018219804?format=jpeg",
+"publishedAt": "2020-11-09T13:50:38Z",
+"content": "REUTERS/Lucy Nicholson\r\nJoe Biden will face a complicated transfer of power at a time when the US is faced with a rising cases of COVID-19 and an economy that is slowing down, Mohamed El-Erian, chief… [+2609 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Newslocker.com"
+},
+"author": null,
+"title": "Paul Collyer to Join HTB as New Chief Risk Officer",
+"description": "Paul Collyer to Join HTB as New Chief Risk OfficerSpecialist lender Hampshire Trust Bank (HTB) has announced the appointment of Paul Collyer as its new chief risk officer (CRO). Subject to regulatory approval, Collyer will assume the role in December 2020, wi…",
+"url": "https://www.newslocker.com/en-uk/profession/security/paul-collyer-to-join-htb-as-new-chief-risk-officer/",
+"urlToImage": "https://img.newslocker.com/2020/11/09/221782773_300.jpg",
+"publishedAt": "2020-11-09T13:46:00Z",
+"content": "<ul><li>\r\nPaul Collyer to Join HTB as New Chief Risk OfficerSpecialist lender Hampshire Trust Bank (HTB) has announced the appointment of Paul Collyer as its new chief risk officer (CRO). Subject to … [+14854 chars]"
+}
+]
+}
